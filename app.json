@@ -1,0 +1,25 @@
+{
+  "id": "08df82c7-fdc8-435b-862e-0f6b097281ad",
+  "name": "BD Seminar",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50600,
+      "to": 50649
+    }
+  ],
+  
+  "runtime": "7.1"
+}
