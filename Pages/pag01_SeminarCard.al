@@ -6,6 +6,7 @@ page 50101 "CSD Seminar Card"
     SourceTable = "CSD Seminar";
     Caption = 'Seminar';
 
+
     layout
     {
         area(Content)

@@ -1,4 +1,6 @@
 page 50102 "CSD Seminar list"
+//CSD1.00 9.11.2021 D.E.Veloper
+// Lab 5. task 6.
 {
     PageType = List;
     Caption = 'CSD Seminar List';
